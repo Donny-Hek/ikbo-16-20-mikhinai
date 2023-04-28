@@ -1,7 +1,6 @@
-import { useState } from 'react';
 import './App.css';
-import Header from './components/header';
-import { Route, Link } from 'react-router-dom';
+// import Header from './components/header';
+import { Link } from 'react-router-dom';
 
 function App() {
   return (
